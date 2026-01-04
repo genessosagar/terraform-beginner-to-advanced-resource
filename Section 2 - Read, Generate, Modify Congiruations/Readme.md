@@ -58,6 +58,11 @@ The code mentioned in this document are used in the HashiCorp Certified Terrafor
 | 49 | [Data Type - SET ][PlEp] |
 | 50 | [for_each in Terraform][PlEq] |
 | 51 | [Data Type - Object][PlEr] |
+| 52 | [Overview of Input Variable Validation][PlEs] |
+| 53 | [Practical - Input Variable Validation][PlEt] |
+| 54 | [Overview of Preconditions and Postconditions][PlEu] |
+| 55 | [Check Blocks][PlEv] |
+| 56 | [Moved Blocks][PlEw] |
 
 [PlDa]: <./firewall.md>
 [PlDb]: <./doc-code-changes.md>
@@ -110,3 +115,8 @@ The code mentioned in this document are used in the HashiCorp Certified Terrafor
 [PlEp]: <./data-type-set.md>
 [PlEq]: <./for_each.md>
 [PlEr]: <./object.md>
+[PlEs]: <./input-variable-validation-overview.md>
+[PlEt]: <./input-variable-validation-practical.md>
+[PlEu]: <./precondition-postcondition.md>
+[PlEv]: <./check-block.md>
+[PlEw]: <./moved-blocks.md>

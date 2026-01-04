@@ -12,6 +12,7 @@ The code mentioned in this document are used in the HashiCorp Certified Terrafor
 | 3 |[Security Challenges in Commiting TFState to GIT][PlDc] |
 | 4 |[Terraform and Vault Integration][PlDd] |
 | 5 |[Dependency Lock File][PlDe] |
+| 6 |[Ephemeral Values and Write-Only Arguments][PlDf] |
 
 
 
@@ -20,3 +21,4 @@ The code mentioned in this document are used in the HashiCorp Certified Terrafor
    [PlDc]: <./tfstate-git.md>
    [PlDd]: <./vault.tf>
    [PlDe]: <./dependency-lock.tf>
+   [PlDf]: <./ephemeral-write-only.md>
